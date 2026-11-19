@@ -1,0 +1,21 @@
+{
+  "name": "sistema-inventario-equipos",
+  "version": "1.0.0",
+  "description": "Sistema de Inventario de Equipos Informaticos en TypeScript - Patrones de Diseño",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "ej1": "tsx src/ejercicio1.ts",
+    "ej2": "tsx src/ejercicio2.ts",
+    "ej3": "tsx src/ejercicio3.ts",
+    "ej4": "tsx src/ejercicio4.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^26.6.4",
+    "tsx": "^4.23.15",
+    "typescript": "^5.7.0"
+  }
+}
